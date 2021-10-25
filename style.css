@@ -15,6 +15,10 @@
     background-color: gray;
     color: white;
     text-align: center;
+    width: 100%;
+    padding: 1%;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
 }
 
 .box {
@@ -37,6 +41,30 @@ h2 {
     font-weight:normal;
     font-style: italic;
     font-size: 30px;
+}
+
+.box-biography {
+  width: 100%;
+}
+
+.text-box {
+  color: white;
+  padding: 7%;
+  font-family: 'Zen Kurenaido', sans-serif;
+  line-height: 1.5rem;
+  font-size: 20px;
+  text-align: right;
+  background-color:darkslategray; 
+}
+
+.logo-bring {
+  background-color: white;
+  justify-content: center;
+  text-align: center;
+}
+
+#logo-company {
+  width: 15%;
 }
 
 /* BUTTON */
