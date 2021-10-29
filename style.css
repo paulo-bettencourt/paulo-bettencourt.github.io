@@ -67,6 +67,24 @@ h2 {
   width: 15%;
 }
 
+.row-projects {
+  background-color: #fd7c84;
+  justify-content: center;
+}
+
+.projects-box {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.project-box {
+  border: 1px solid white;
+  margin: 2%;
+  width: 150px;
+  height: 150px;
+}
+
 /* BUTTON */
 
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,400);
