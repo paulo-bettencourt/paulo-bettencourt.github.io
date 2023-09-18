@@ -1,3 +1,3 @@
-# Paulo Lemos - Junior Fullstack Developer
+# Paulo Bettencourt - Mid-Level Frontend Developer
 
 ## Portfolio
